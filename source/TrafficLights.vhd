@@ -87,4 +87,3 @@ begin
 	Y <= s_lights(1);
 	G <= s_lights(0);
 end Behavioral;
-
